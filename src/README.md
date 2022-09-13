@@ -1,4 +1,4 @@
-# Orchard Core
+# A Cure 4 IT Home Page Git Initialization.
 
 Orchard Core is a redevelopment of [Orchard CMS](https://github.com/OrchardCMS/Orchard) on [ASP.NET Core](https://docs.microsoft.com/aspnet/core/). 
 
